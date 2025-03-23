@@ -1,5 +1,11 @@
 # IDE related
 .idea/
+
+# Python related
+bin/
+include/
+**/pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
